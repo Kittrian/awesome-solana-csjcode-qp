@@ -3,7 +3,7 @@ Awesome list of Solana links, updated recently and with more info than some othe
 
 ------------------------
 
-# Updates soon (August, 17 2026)
+# Updates status (August, 17 2026)
 
 Currently this list is not being updated frequently.
 
