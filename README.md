@@ -3,19 +3,23 @@ Awesome list of Solana links, updated recently and with more info than some othe
 
 ------------------------
 
-# Updates soon (Mar. 18 2025)
+# Updates soon (August, 17 2026)
 
-There have been a lot of changes in documentation the last few months and I have not updated this in a looong time.
+Currently this list is not being updated frequently.
 
-I am in the process of checking links and making some updates in the next few days.
+Next update will add some more established projects, make core changes, and update outdated links. But most recent update as of posting this was last year.
 
-Currently there are quite a few broken links.
+### On PRs and new project link requests
 
-But they will be fixed soon.
+Right now I'm not adding PRs for new links and new projects, unless it is a new project that has gained a lot of traction in the Solana ecosystem already (or a bad link) and was missed.
 
-Thanks for understanding, watch for updates soon!
+Perhaps there should be another list of new projects that have a lot of potential, but are not yet established, and I will consider that in the future, but I do not have time to curate it at this time.
 
-@csjcode
+This was originally intended to be a curated list of core Solana links and apps that have already made a mark, not a comprehensive list of everything new. I want to keep it that way. I'm sympathetic, I'm a founder/dev too, and I know how hard it is to get noticed, but I want to keep this specific repo/list focused on established/core projects.
+
+I will be doing a more thorough review of links soon, and will add them to the list if they fit the criteria.
+
+If you believe your link fits the criteria above, you can still submit a PR and I may review it if I get a chance. But as mentioned, this is updated infrequently right now, and I am only adding established apps that fit the criteria.
 
 ------------------------
 
