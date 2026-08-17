@@ -1,5 +1,5 @@
 # 🦀 awesome-solana v2 🚀
-Awesome list of Solana links, updated recently and with more info than some other similar lists.
+Awesome list of Solana links, with more info than some other similar lists.
 
 ------------------------
 
